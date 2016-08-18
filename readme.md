@@ -1,6 +1,6 @@
-<a href="https://0150gameserver.github.io">Open Game Server</a>
+<a href="https://0150gameserver.github.io">Open Host Site</a>
 
-</h2>CLOUD STORAGE FOR GAME PROJECT FILES</h2>
+<h2>CLOUD STORAGE FOR GAME PROJECT FILES</h2>
 
 --CREDITS--
 
