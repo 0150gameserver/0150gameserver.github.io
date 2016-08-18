@@ -5,3 +5,10 @@
   border-color: black;
   padding: 5px;
 }
+
+.icon {
+  height: 100px;
+  width: 100px;
+  border: 2px;
+  padding: 5px;
+}
