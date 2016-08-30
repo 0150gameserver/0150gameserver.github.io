@@ -1,0 +1,49 @@
+MELEE
+thrust -> swing
+=spear, longsword, shortsword, curved sword, axe, hammer/mace
+
+polearm variant for each
+advantages: range, momentum on swing
+disadvantages: : 1. handle more perishable/durable
+2. not portable, not good as a sidearm (no bow, no big shield etc)
+3. the lead hand is very vulnerable
+
+whips (but pls gd 1s pls no jow souls: dark marbin whips)
+
+Mace knobs or flanges increase penetration
+
+MELEE OFFHAND
+Daggers
+Shields
+inb4 duel wielding, no
+
+RANGED (closer = more armour pen)
+Bow 
+Recurve - limbs that curve away from the archer when unstrung 
+>
+Composite - Horn on belly, sinew on the outer side of a wooden core
+&
+Wooden longbow - narrow limbs, elastic wood needed
+&
+Wooden flatbow - rectangular limbs, cheapest
+
+Crossbows (necessary vs heavy armour)
+Pistol crossbow - 1 hand
+Arbalest - heavy, 2h, requires windlasses to pull sinew
+Repeating crossbow - stringing, placing bolt + shooting all 1 movement 
+
+Slingshots & bullet crossbows
+
+Bolt/arrow head differences 
+>bodkin points - short rigid points - better flight, cheaper 
+>blunts - stun only
+>judo points - wires extending sideways from tip - harder to lose in grass
+>broadheads - 2-4 blades - cause bleeding, expensive (mechanical deploys on contact)
+
+Handcannons? - easier to use, better armour pen, slower to fire, less accurate
+
+Throwing weapons - cheap, seperate slot/control?
+Knifes (shit)
+Axes (not shit)
+Chakram
+Javelin
